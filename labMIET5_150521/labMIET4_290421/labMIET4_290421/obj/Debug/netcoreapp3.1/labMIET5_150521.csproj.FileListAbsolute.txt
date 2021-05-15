@@ -1,0 +1,13 @@
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.exe
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.deps.json
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.runtimeconfig.json
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.runtimeconfig.dev.json
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.dll
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\bin\Debug\netcoreapp3.1\labMIET5_150521.pdb
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.csprojAssemblyReference.cache
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.AssemblyInfo.cs
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.dll
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.pdb
+C:\Users\vld85\source\repos\labMIET4_290421\labMIET4_290421\obj\Debug\netcoreapp3.1\labMIET5_150521.genruntimeconfig.cache
