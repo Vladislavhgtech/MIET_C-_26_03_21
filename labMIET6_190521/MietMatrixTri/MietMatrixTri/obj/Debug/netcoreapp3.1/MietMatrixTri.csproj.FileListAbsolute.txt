@@ -1,0 +1,12 @@
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.exe
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.deps.json
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.runtimeconfig.json
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.runtimeconfig.dev.json
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.dll
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\bin\Debug\netcoreapp3.1\MietMatrixTri.pdb
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.AssemblyInfo.cs
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.dll
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.pdb
+C:\Users\vld85\source\repos\MietMatrixTri\MietMatrixTri\obj\Debug\netcoreapp3.1\MietMatrixTri.genruntimeconfig.cache
